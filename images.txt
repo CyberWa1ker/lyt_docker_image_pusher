@@ -1,5 +1,4 @@
 #支持私库
-hello-world
-python:3.8.19-bookworm
 #支持指定架构
---platform=amd64
+# --platform=linux/amd64 xxx/xxx:latest
+portainer/portainer-ce:latest
