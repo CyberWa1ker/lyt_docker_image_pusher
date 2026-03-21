@@ -1,5 +1,5 @@
 #支持私库
 #支持指定架构
 
-dhi.io/redis:8
-rapidfort/mysql8-ib:8.4.8-4881143
+redis:8.6
+mysql8-ib:8.4.8
