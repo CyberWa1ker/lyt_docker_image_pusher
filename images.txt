@@ -1,5 +1,5 @@
 #支持私库
 #支持指定架构
 
-redis:8
-mysql:8.4.8
+redis:8 --platform=linux/arm64
+mysql:8.4.8 --platform=linux/arm64
