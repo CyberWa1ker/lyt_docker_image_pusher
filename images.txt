@@ -3,3 +3,5 @@
 
 --platform=linux/arm64 redis:8
 --platform=linux/arm64 mysql:8.4.8
+
+--platform=linux/arm64 kalilinux/kali-last-release:latest
